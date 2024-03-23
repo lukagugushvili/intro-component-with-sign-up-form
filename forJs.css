@@ -1,0 +1,10 @@
+.actErrors {
+  background-image: url(./assets/error-icon.SVG);
+  background-repeat: no-repeat;
+  background-position: 95%;
+  border: 2px solid #ff7979;
+}
+
+.actGreenLine {
+  border: 1px solid #5e54a4;
+}
